@@ -1,0 +1,24 @@
+.contenedor{
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    text-align: center;
+    place-items: center;
+}
+.fecha{
+   
+    display: flex;
+    align-items: center;
+}
+.fecha img {
+   height: 50px;
+   background-color: white;
+   cursor: pointer;
+}
+.visor{
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
